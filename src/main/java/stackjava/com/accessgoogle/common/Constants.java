@@ -3,6 +3,7 @@
 // public static String GOOGLE_CLIENT_ID =
 // "340019636522-crdnrukiefhjooeipk8jfoht42k4ttji.apps.googleusercontent.com";
 // public static String GOOGLE_CLIENT_SECRET =
+// "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";
 // public static String GOOGLE_REDIRECT_URI =
 // "http://localhost:8080/Singer_Vote/login_google";
 // public static String GOOGLE_LINK_GET_TOKEN =
