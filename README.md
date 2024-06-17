@@ -1,1 +1,1 @@
-# Singer_Vote_BlockChain_JavaServer
+# Singer_Vote_BlockChain_SmartContract
